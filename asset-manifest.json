@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/16-tapshyrma/static/css/main.b83cd253.css",
+    "main.js": "/16-tapshyrma/static/js/main.b88854e4.js",
+    "index.html": "/16-tapshyrma/index.html",
+    "main.b83cd253.css.map": "/16-tapshyrma/static/css/main.b83cd253.css.map",
+    "main.b88854e4.js.map": "/16-tapshyrma/static/js/main.b88854e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b83cd253.css",
+    "static/js/main.b88854e4.js"
+  ]
+}
